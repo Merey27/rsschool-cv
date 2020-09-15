@@ -19,7 +19,8 @@ TEMIRKAS MEREY
 2016-2020
 
 **Self-Education**
-Finished freecodecamp HTML, CSS course
+* Finished freecodecamp HTML, CSS course
+* Javascript course from Udemy 
 #### LANGUAGE:
  * Kazakh - Native
  * Russian - Fluent
