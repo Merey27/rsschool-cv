@@ -17,6 +17,9 @@ TEMIRKAS MEREY
 **Satbayev University** \
 "Petroleum Engineer", Bachelor Degree \
 2016-2020
+
+**Self-Education**
+Finished freecodecamp HTML, CSS course
 #### LANGUAGE:
  * Kazakh - Native
  * Russian - Fluent
