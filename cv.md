@@ -17,8 +17,7 @@ TEMIRKAS MEREY
 **Satbayev University** \
 "Petroleum Engineer", Bachelor Degree \
 2016 - 2020
- 
- #### LANGUAGE:
+#### LANGUAGE:
  * Kazakh - Native
  * Russian - Fluent
  * English - Upper-intermediate
